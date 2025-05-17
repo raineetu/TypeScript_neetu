@@ -1,3 +1,5 @@
-console.log("I am Neetu Rai")
-let num = 5;
-num = "vinod"
+console.log("I am Neetu Rai");
+
+let num: number = 5;
+
+console.log(num, "number");
